@@ -4,7 +4,7 @@
 
 Source: [Udacity - Machine Learning DevOps Engineer Nano-degree](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 
-github link : https://github.com/arsenallover/udacity_c2_project_reproducible_pipeline
+github link : https://github.com/arsenallover/build-ml-pipeline-for-short-term-rental-prices
 
 wandb link : https://wandb.ai/rangarajp1308/nyc_airbnb?workspace=user-rangarajp1308
 
